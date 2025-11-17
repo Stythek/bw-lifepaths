@@ -1,0 +1,934 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="50bkIgF17oRRaK8fAGV9">
+    <mxGraphModel dx="1224" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-1" value="Chattel Setting (p. 228 - 229)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="290" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-5" value="&lt;font&gt;Born Chattel&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-6" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-5" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-7" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-5" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-8" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-5" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-9" value="Black Legion, Servant" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-5" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-10" value="&lt;font&gt;Cattle Slave&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-11" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-10" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-12" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-10" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-13" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-10" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-10" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-15" value="&lt;font&gt;Scavenger&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-16" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-15" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-17" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-15" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-18" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-15" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-19" value="Black Legion" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-15" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-20" value="&lt;font&gt;Forge Slave&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-21" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-20" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-22" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-20" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-23" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-20" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-20" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-25" value="&lt;font&gt;Hauler&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-26" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-25" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-27" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-25" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-28" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-25" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-25" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-30" value="&lt;font&gt;Cutter Slave&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-31" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-30" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-32" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-30" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-33" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-30" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-30" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-35" value="&lt;font&gt;Tunneler&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-36" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-35" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-37" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-35" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-38" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-35" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-35" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-40" value="&lt;font&gt;Ravager&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="10" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-41" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-40" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-42" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-40" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-43" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-40" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-44" value="Black Legion" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-40" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-48" value="&lt;font&gt;Woodcutter&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="160" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-49" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-48" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-50" value="228" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-48" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-51" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-48" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-52" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cutter Slave&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-48" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-53" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-48" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-48" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-6" value="&lt;font&gt;Butcher&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="160" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-7" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="JNyZ7tDES5hxoS4Hcy0z-6" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-8" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="JNyZ7tDES5hxoS4Hcy0z-6" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-9" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="JNyZ7tDES5hxoS4Hcy0z-6" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cattle Slave&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="JNyZ7tDES5hxoS4Hcy0z-6" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-11" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="JNyZ7tDES5hxoS4Hcy0z-6" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JNyZ7tDES5hxoS4Hcy0z-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="JNyZ7tDES5hxoS4Hcy0z-6" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-55" value="&lt;font&gt;Forger&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="160" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-56" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-55" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-57" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-55" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-58" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-55" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-59" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Forge Slave&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-55" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-60" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-55" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-61" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-55" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-62" value="&lt;font&gt;Pitwright&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="160" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-63" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-62" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-64" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-62" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-65" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-62" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Tunneler&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-62" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-67" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-62" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-62" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-69" value="&lt;font&gt;Edge Grinder&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="160" y="550" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-70" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-69" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-71" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-69" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-72" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-69" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-73" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Forger&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-69" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-74" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-69" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-75" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Black Legion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-69" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-76" value="&lt;font&gt;Whipmaster&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-1" vertex="1">
+          <mxGeometry x="160" y="680" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-77" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-76" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-78" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-76" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-79" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-76" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-80" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pitwright, Forger, 4 Slave LPs, any Great &amp;amp; Black / Black Legion LP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-76" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-81" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-76" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-82" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Black Legion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-76" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-2" value="Great &amp;amp; Black (p. 229 - 230)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="340" y="40" width="400" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-93" value="&lt;font&gt;Born Great&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="10" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-94" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-93" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-95" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-93" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-96" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-93" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-97" value="Servant" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-93" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-98" value="&lt;font&gt;Servant of the Gate&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="10" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-99" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-98" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-100" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-98" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-101" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-98" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-102" value="Chattel, Legion" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-98" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-108" value="&lt;font&gt;The Rites&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="140" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-109" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-108" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-110" value="229" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-108" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-111" value="Restr." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-108" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-112" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;only once, must be 2nd LP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-108" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-113" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-108" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-114" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Legion, Servant&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-108" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-122" value="&lt;font&gt;Follower&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="140" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-123" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-122" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-124" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-122" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-125" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-122" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-126" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;The Rites, Astride the Beast&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-122" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-127" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-122" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-128" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chattel, Legion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-122" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-129" value="&lt;font&gt;Black Destroyer&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="140" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-130" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-129" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-131" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-129" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-132" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-129" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-133" value="&lt;font&gt;Follower, Astride the Beast, Head Taker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-129" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-134" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-129" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-135" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-129" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-136" value="Named" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="140" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-137" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-136" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-138" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-136" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-139" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-136" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-140" value="&lt;font&gt;Black Destroyer, Troll Lord, Head Taker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-136" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-141" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-136" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-142" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-136" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-143" value="&lt;font&gt;Whisperer&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="270" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-144" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-143" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-145" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-143" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-146" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-143" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-147" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Slave of the Dark, Whipmaster, Gate Forger, Bears the Lash&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-143" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-148" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-143" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-149" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Servant&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-143" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-150" value="&lt;font&gt;Siege Master&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="270" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-151" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-150" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-152" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-150" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-153" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-150" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-154" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Servant of the Gate&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-150" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-155" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-150" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-156" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-150" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-157" value="&lt;font&gt;Gate Forger&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="270" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-158" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-157" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-159" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-157" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-160" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-157" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-161" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Siege Master&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-157" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-162" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-157" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-163" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-157" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-164" value="&lt;font&gt;Great One&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-2" vertex="1">
+          <mxGeometry x="270" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-165" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-164" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-166" value="230" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-164" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-167" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-164" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-168" value="&lt;font&gt;Named &amp;amp; &quot;Born to Rule Them All&quot; trait&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-164" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-169" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-164" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-170" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-164" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-4" value="Servant of the Dark Blood Subsetting (p. 232 - 233)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="40" width="420" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-273" value="Slave to the Dark" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="10" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-274" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-273" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-275" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-273" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-276" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-273" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-277" value="Chattel" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-273" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-278" value="&lt;font&gt;Dringer of the Dark&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="10" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-279" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-278" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-280" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-278" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-281" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-278" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-282" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Slave to the Dark&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-278" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-283" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-278" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-284" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-278" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-285" value="&lt;font&gt;Bloodletter&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="140" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-286" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-285" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-287" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-285" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-288" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-285" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-289" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Dringer of the Dark&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-285" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-290" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-285" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-291" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-285" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-299" value="&lt;font&gt;Knower of Secrets&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="140" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-300" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-299" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-301" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-299" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-302" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-299" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-303" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Drinker of the Dark&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-299" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-304" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-299" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-305" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel, Legion&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-299" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-306" value="&lt;font&gt;Master of Eight&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="140" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-307" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-306" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-308" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-306" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-309" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-306" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-310" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Knower of Secrets&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-306" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-311" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-306" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-312" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel, Legion&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-306" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-313" value="&lt;font&gt;Master of Blood&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="140" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-314" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-313" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-315" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-313" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-316" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-313" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-317" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Bloodletter&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-313" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-318" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-313" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-319" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-313" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-320" value="&lt;font&gt;Master of Darkness&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="270" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-321" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-320" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-322" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-320" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-323" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-320" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-324" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Knower of Secrets&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-320" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-325" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-320" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-326" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-320" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-327" value="&lt;font&gt;Dark Summoner&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="270" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-328" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-327" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-329" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-327" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-330" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-327" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-331" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Master of Darkness&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-327" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-332" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-327" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-333" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-327" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-334" value="&lt;font&gt;Blood Summoner&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="270" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-335" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-334" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-336" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-334" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-337" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-334" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-338" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Master of Blood&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-334" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-339" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-334" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-340" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-334" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-341" value="&lt;font&gt;Servant&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-4" vertex="1">
+          <mxGeometry x="270" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-342" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-341" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-343" value="233" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-341" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-344" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-341" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-345" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&quot;Born to Rule Them All&quot; trait &amp;amp; Dark Summoner / Blood Summoer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-341" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-346" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-341" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-347" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-341" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-45" value="Black LegionSubsetting (p. 231 - 232)" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="750" y="40" width="400" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-171" value="&lt;font&gt;Golbin&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="10" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-172" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-171" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-173" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-171" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-174" value="Restr." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-171" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-175" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Born Great may not take&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-171" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-176" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-171" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-177" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-171" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-185" value="&lt;font&gt;Sun Blotter&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="10" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-186" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-185" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-187" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-185" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-188" value="Restr." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-185" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-189" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Born Great may not take&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-185" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-190" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-185" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-191" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-185" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-206" value="&lt;font&gt;Hatred Bearer&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="10" y="630" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-207" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-206" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-208" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-206" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-209" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-206" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-210" value="&lt;font&gt;The Rites, Legioner, Whipmaster&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-206" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-211" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-206" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-212" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-206" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-213" value="&lt;font&gt;Despair Shouter&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="140" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-214" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-213" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-215" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-213" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-216" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-213" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-217" value="The Rites, Legioner, Whipmaster" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-213" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-218" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-213" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-219" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-213" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-220" value="&lt;font&gt;Black Hunter&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="140" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-221" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-220" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-222" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-220" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-223" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-220" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-224" value="&lt;font&gt;Follower, Ravager, Nightseeker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-220" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-225" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-220" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-226" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-220" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-227" value="&lt;font&gt;Astride the Beast&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="270" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-228" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-227" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-229" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-227" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-230" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-227" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-231" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Black Hunter, Follower&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-227" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-232" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-227" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-233" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel, Great and Black&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-227" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-234" value="&lt;font&gt;Bears the Lash&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="270" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-235" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-234" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-236" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-234" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-237" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-234" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-238" value="&lt;font&gt;Whipmaster, Black Hunter, Astride the Beast, The Rites&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-234" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-239" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-234" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-240" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel, Great and Black&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-234" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-241" value="&lt;font&gt;Packmaster&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="270" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-242" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-241" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-243" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-241" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-244" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-241" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-245" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Bears the Lash, Follower, Whipmaster, Master of Eight, Knower of Secrets&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-241" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-246" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-241" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-247" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel, Great and Black&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-241" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-248" value="&lt;font&gt;Head Taker&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="270" y="420" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-249" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-248" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-250" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-248" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-251" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-248" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-252" value="&lt;font&gt;Bears the Lash, Black Destroyer, Named&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-248" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-253" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-248" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-254" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel, Great and Black&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-248" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-255" value="&lt;font&gt;Troll Lord&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="270" y="550" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-256" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-255" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-257" value="232" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-255" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-258" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-255" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-259" value="&lt;font&gt;Bears the Lash, Pack Master, Named&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-255" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-260" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-255" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-261" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Great and Black, Servant&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-255" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-192" value="&lt;font&gt;Nightseeker&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="10" y="290" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-193" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-194" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-195" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-196" value="&lt;font&gt;Legioner, Sun Blotter, Scavenger, Ravager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-197" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry y="120" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-198" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry x="30" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-262" value="Restr." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-263" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Born Great may not take&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-192" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-264" value="&lt;font&gt;Legioner&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" parent="NXmJ_un9KAYuIlCF6hIV-45" vertex="1">
+          <mxGeometry x="10" y="460" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-265" value="Page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-266" value="231" style="rounded=0;whiteSpace=wrap;html=1;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry x="30" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-267" value="Reqs" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry y="80" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-268" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Ravager, Whipmaster, Goblin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry x="30" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-269" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry y="120" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-270" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Chattel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry x="30" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-271" value="Restr." style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry y="40" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NXmJ_un9KAYuIlCF6hIV-272" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Born Great may not take&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="NXmJ_un9KAYuIlCF6hIV-264" vertex="1">
+          <mxGeometry x="30" y="40" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
